@@ -4,3 +4,4 @@ jupyter
 jupyterlab
 scrapy
 beautifulsoup4
+tqdm
