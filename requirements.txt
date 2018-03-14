@@ -5,3 +5,4 @@ jupyterlab
 scrapy
 beautifulsoup4
 tqdm
+requests
