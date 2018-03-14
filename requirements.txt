@@ -6,3 +6,5 @@ scrapy
 beautifulsoup4
 tqdm
 requests
+folium
+geopy
