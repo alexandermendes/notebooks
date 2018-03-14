@@ -1,5 +1,7 @@
 # bl-digischol-notebooks
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/alexandermendes/bl-digischol-notebooks/master)
+
 This repository will contain a set of Jupyter notebooks that explore
 programmatic research techniques using British Library datasets.
 
